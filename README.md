@@ -1,2 +1,2 @@
-# ToDo_js
+# JavaScript_Udemy
 Created with CodeSandbox
