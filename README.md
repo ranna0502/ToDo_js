@@ -1,6 +1,6 @@
 # ToDo_js
 
-素の JavaScript を使用した TODO リストの作成    
+素の JavaScript を使用した TODO リストの作成。    
 従来の DOM 操作を実際に体感してみることが目的となります。      
 
 **<従来の方法（JS,jQuery など）>**  
